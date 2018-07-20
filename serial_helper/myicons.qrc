@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon/blacktea.jpg</file>
+        <file>icon/greenled.png</file>
+        <file>icon/greenled_copy.png</file>
+        <file>icon/redled.png</file>
+        <file>icon/refresh.png</file>
+        <file>icon/university.png</file>
+    </qresource>
+</RCC>
